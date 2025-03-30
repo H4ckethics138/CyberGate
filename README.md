@@ -38,9 +38,8 @@ sudo python3 main.py
 
 ```diff
 - WARNING: CONTROLLED EDUCATIONAL INSTRUMENT
-! Email spoofing is prohibited by law
+! CyberGate -Latest Android Payload Generator is prohibited by law
 + Research & demonstration only
-@@ User assumes all legal liability @@
 ```
 
 ## 🚫 [ DISCLAIMER ]
@@ -48,8 +47,7 @@ sudo python3 main.py
 <div align="center">
 
 ```
-Team Illusion holds zero liability for unauthorized use
-Operating this tool implies complete legal responsibility
+This tool is intended for educational purposes only. The author is not responsible for any misuse.
 ```
 
 </div>
@@ -58,8 +56,7 @@ Operating this tool implies complete legal responsibility
 
 <table align="center">
     <tr>
-        <td align="center"><a href="https://github.com/kdo2064"><img src="https://img.shields.io/badge/KDO-Developer-blue?style=flat-square&logo=github"></a></td>
-        <td align="center"><a href="https://github.com/samay825"><img src="https://img.shields.io/badge/Zork-Developer-red?style=flat-square&logo=github"></a></td>
+       <td align="center"><a href="https://github.com/H4ckethics138"><img src="https://img.shields.io/badge/Ethics-Developer-red?style=flat-square&logo=github"></a></td>
     </tr>
 </table>
 
