@@ -5,10 +5,7 @@
 ![ CyberGate Banner](https://github.com/H4ckethics138/CyberGate/blob/main/CyberGate.png?raw=true)
 
 ```diff
-+ A sophisticated email spoofing simulation toolkit
-- For educational and research purposes only
-! Created by Team Illusion: KDO & Zork
-```
+
 </div>
 
 
