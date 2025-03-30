@@ -4,11 +4,6 @@
 
 ![ CyberGate Banner](https://github.com/H4ckethics138/CyberGate/blob/main/CyberGate.png?raw=true)
 
-```diff
-
-</div>
-
-
 ##🛠️[ DEPLOYMENT SEQUENCE ]
 
 ###🐧Linux/Termux Installation
